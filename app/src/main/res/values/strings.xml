@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposePractice</string>
+
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="my_page">MyPage</string>
+</resources>
